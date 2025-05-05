@@ -20,8 +20,7 @@ The workflow includes:
 - `qtl_mapping.R` – Main R script for executing the QTL workflow
 - `raiz(mean).txt` – Raw phenotype data for five root traits
 - `HSRIL to MAGIC.csv` – Mapping file for line ID conversion
-- `57gene_cooridinate.csv` – List of candidate genes with genomic coordinates
-
+  
 ## Usage Instructions
 
 1. Clone the repository or download the ZIP.
